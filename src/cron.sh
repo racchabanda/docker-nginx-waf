@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh 
 set -eu
 
 if [ -z "${WAF_INSTANCE:-}" ];then
